@@ -13,7 +13,7 @@ from telegram.ext import (
     Application, CommandHandler, CallbackQueryHandler, ContextTypes
 )
 
-TOKEN = "8769410847:AAErSgmuopoNEood3HslVs3kkE5fgRpqoi4"
+TOKEN = 8364700775:AAGttF0k8P3hQsuo8tRLoFHudXcTsWZyvPA
 
 logging.basicConfig(level=logging.INFO)
 
